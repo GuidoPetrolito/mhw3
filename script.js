@@ -60,7 +60,7 @@ function clickR(event) {
     for(box of boxes) {
         let image = box.querySelector('img');
         console.log(image);
-        // image.src="images/def.jpg";
+        image.src="images/def.jpg";
     }
 }
 
